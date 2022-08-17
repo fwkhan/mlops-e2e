@@ -2,7 +2,7 @@
     "projectName": "mlops-e2e",
     "repoType": "git",
     "git": {
-        "githubConnectionArn": "",
+        "githubConnectionArn": "arn:aws:codestar-connections:eu-west-2:613762345598:connection/a2cd6064-2879-409c-94a1-9e98e9f210ac",
         "githubRepoOwner": "fwkhan",
         "githubRepoName": "ai-news-frontend"
     },
